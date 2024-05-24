@@ -1,0 +1,146 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extarticle
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Statistics worksheet - 5
+\end_layout
+
+\begin_layout Author
+Rajib Dutta (duttarajib78@gmail.com) - Batch DS2402
+\end_layout
+
+\begin_layout Enumerate
+Using a goodness of fit,we can assess whether a set of obtained frequencies
+ differ from a set of frequencies (Option d i.e.
+ Expected).
+\end_layout
+
+\begin_layout Enumerate
+Chisquare is used to analyse (Option c i.e.
+ Frequencies).
+\end_layout
+
+\begin_layout Enumerate
+What is the mean of a Chi Square distribution with 6 degrees of freedom?
+ (Option c i.e.
+ 6)
+\end_layout
+
+\begin_layout Enumerate
+Which of these distributions is used for a goodness of fit testing? (Option
+ b i.e.
+ Chisqared distribution)
+\end_layout
+
+\begin_layout Enumerate
+Which of the following distributions is Continuous (Option c i.e.
+ F Distribution)
+\end_layout
+
+\begin_layout Enumerate
+A statement made about a population for testing purpose is called? (Option
+ b i.e.
+ Hypothesis)
+\end_layout
+
+\begin_layout Enumerate
+If the assumed hypothesis is tested for rejection considering it to be true
+ is called? (Option a i.e.
+ Null Hypothesis)
+\end_layout
+
+\begin_layout Enumerate
+If the Critical region is evenly distributed then the test is referred as?
+ (Option a i.e.
+ Two tailed)
+\end_layout
+
+\begin_layout Enumerate
+Alternative Hypothesis is also called as? (Option b i.e.
+ Research Hypothesis)
+\end_layout
+
+\begin_layout Enumerate
+In a Binomial Distribution, if ‘n’ is the number of trials and ‘p’ is the
+ probability of success, then the mean value is given by (Option a i.e.
+ np)
+\end_layout
+
+\end_body
+\end_document
